@@ -1,0 +1,21 @@
+{
+  "name": "audio-proxy-server",
+  "version": "1.0.0",
+  "description": "Servidor de proxy para retransmitir el stream de audio",
+  "main": "src/api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "ts-node api/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "dotenv": "^10.0.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0",
+    "ts-node": "^10.0.0"
+  },
+  "type": "module"
+}
