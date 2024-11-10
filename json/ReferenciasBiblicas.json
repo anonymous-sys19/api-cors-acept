@@ -1,0 +1,803 @@
+[
+    {
+        "id": 1,
+        "tema": "La Creación del Mundo",
+        "rol": "Dios como Creador",
+        "pasaje": "Génesis 1:1-3",
+        "descripcion": "Dios crea los cielos, la tierra y la luz.",
+        "verse": "En el principio creó Dios los cielos y la tierra. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas. Y dijo Dios: Sea la luz; y fue la luz."
+    },
+    {
+        "id": 2,
+        "tema": "El Pecado Original",
+        "rol": "Caída del Hombre",
+        "pasaje": "Génesis 3:1-7",
+        "descripcion": "Adán y Eva desobedecen a Dios al comer del árbol prohibido.",
+        "verse": "Pero la serpiente era astuta, más que todos los animales del campo que Jehová Dios había hecho; la cual dijo a la mujer: ¿Conque Dios os ha dicho: No comáis de todo árbol del huerto? Y la mujer respondió a la serpiente: Del fruto de los árboles del huerto podemos comer; pero del fruto del árbol que está en medio del huerto, dijo Dios: No comeréis de él, ni le tocaréis, para que no muráis."
+    },
+    {
+        "id": 3,
+        "tema": "El Arca de Noé",
+        "rol": "Salvación de la humanidad",
+        "pasaje": "Génesis 6:13-22",
+        "descripcion": "Dios instruye a Noé para construir un arca y salvar a su familia y a los animales del diluvio.",
+        "verse": "Dijo, pues, Dios a Noé: He decidido el fin de todo ser, porque la tierra está llena de violencia a causa de ellos; y he aquí que yo los destruiré con la tierra. Hazte un arca de madera de gofer; harás aposentos en el arca, y la calafatearás con brea por dentro y por fuera."
+    },
+    {
+        "id": 4,
+        "tema": "El Sacrificio de Isaac",
+        "rol": "Prueba de fe",
+        "pasaje": "Génesis 22:1-14",
+        "descripcion": "Dios prueba la fe de Abraham pidiéndole que sacrifique a su hijo Isaac.",
+        "verse": "Y aconteció después de estas cosas, que probó Dios a Abraham, y le dijo: Abraham. Y él respondió: Heme aquí. Y dijo: Toma ahora tu hijo, tu único, Isaac, a quien amas, y vete a tierra de Moriah, y ofrécelo allí en holocausto sobre uno de los montes que yo te diré."
+    },
+    {
+        "id": 5,
+        "tema": "Los Diez Mandamientos",
+        "rol": "Ley dada a Israel",
+        "pasaje": "Éxodo 20:1-17",
+        "descripcion": "Dios entrega los Diez Mandamientos a Moisés en el Monte Sinaí.",
+        "verse": "Y habló Dios todas estas palabras, diciendo: Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre. No tendrás dioses ajenos delante de mí."
+    },
+    {
+        "id": 6,
+        "tema": "La Partición del Mar Rojo",
+        "rol": "Liberación milagrosa",
+        "pasaje": "Éxodo 14:21-22",
+        "descripcion": "Dios abre el Mar Rojo para que los israelitas crucen y escapen de los egipcios.",
+        "verse": "Y extendió Moisés su mano sobre el mar, e hizo Jehová que el mar se retirase por recio viento oriental toda aquella noche; y volvió el mar en seco, y las aguas quedaron divididas. Entonces los hijos de Israel entraron por en medio del mar en seco, teniendo las aguas como muro a su derecha y a su izquierda."
+    },
+    {
+        "id": 7,
+        "tema": "Caída de Jericó",
+        "rol": "Obediencia y fe",
+        "pasaje": "Josué 6:2-5",
+        "descripcion": "Dios da instrucciones a Josué sobre cómo los israelitas tomarán la ciudad de Jericó.",
+        "verse": "Mas Jehová dijo a Josué: Mira, yo he entregado en tu mano a Jericó y a su rey, con sus varones de guerra. Rodearéis, pues, la ciudad todos los hombres de guerra, yendo alrededor de la ciudad una vez; y esto haréis durante seis días."
+    },
+    {
+        "id": 8,
+        "tema": "La Unción de David",
+        "rol": "Rey elegido por Dios",
+        "pasaje": "1 Samuel 16:12-13",
+        "descripcion": "Samuel unge a David como el futuro rey de Israel.",
+        "verse": "Y envió por él, y le hizo entrar. Y era rubio, hermoso de ojos, y de buen parecer. Entonces Jehová dijo: Levántate, y úngelo, porque éste es. Y Samuel tomó el cuerno del aceite, y lo ungió en medio de sus hermanos; y desde aquel día en adelante el Espíritu de Jehová vino sobre David."
+    },
+    {
+        "id": 9,
+        "tema": "David y Goliat",
+        "rol": "Fe y valentía",
+        "pasaje": "1 Samuel 17:45-47",
+        "descripcion": "David derrota al gigante Goliat confiando en la ayuda de Dios.",
+        "verse": "Entonces dijo David al filisteo: Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos, el Dios de los escuadrones de Israel, a quien tú has provocado."
+    },
+    {
+        "id": 10,
+        "tema": "El Sueño de Salomón",
+        "rol": "Sabiduría divina",
+        "pasaje": "1 Reyes 3:5-14",
+        "descripcion": "Dios aparece a Salomón en un sueño y le ofrece cualquier cosa que él desee.",
+        "verse": "En Gabaón se apareció Jehová a Salomón en sueños una noche; y le dijo Dios: Pide lo que quieras que yo te dé."
+    },
+    {
+        "id": 11,
+        "tema": "Elías y los profetas de Baal",
+        "rol": "Profeta de Dios",
+        "pasaje": "1 Reyes 18:36-39",
+        "descripcion": "Elías desafía a los profetas de Baal y muestra el poder de Dios a través del fuego del cielo.",
+        "verse": "Cuando llegó la hora de ofrecer el holocausto, se acercó el profeta Elías y dijo: Jehová Dios de Abraham, de Isaac y de Israel, sea hoy manifiesto que tú eres Dios en Israel, y que yo soy tu siervo, y que por mandato tuyo he hecho todas estas cosas."
+    },
+    {
+        "id": 12,
+        "tema": "El Sueño de Nabucodonosor",
+        "rol": "Rey de Babilonia",
+        "pasaje": "Daniel 2:31-35",
+        "descripcion": "Nabucodonosor sueña con una estatua que representa reinos futuros, y Daniel interpreta su significado.",
+        "verse": "Tú, oh rey, veías, y he aquí una gran imagen. Esta imagen, que era muy grande, y cuya gloria era muy sublime, estaba en pie delante de ti, y su aspecto era terrible."
+    },
+    {
+        "id": 13,
+        "tema": "La Visión del Valle de los Huesos Secos",
+        "rol": "Profecía de restauración",
+        "pasaje": "Ezequiel 37:1-10",
+        "descripcion": "Ezequiel ve una visión de huesos secos que vuelven a la vida, simbolizando la restauración de Israel.",
+        "verse": "La mano de Jehová vino sobre mí, y me llevó en el Espíritu de Jehová, y me puso en medio de un valle que estaba lleno de huesos."
+    },
+    {
+        "id": 14,
+        "tema": "La Promesa del Mesías",
+        "rol": "Profecía de redención",
+        "pasaje": "Isaías 9:6",
+        "descripcion": "Isaías profetiza sobre el nacimiento de un Salvador, llamado Príncipe de Paz.",
+        "verse": "Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz."
+    },
+    {
+        "id": 15,
+        "tema": "Nacimiento de Jesús",
+        "rol": "El Salvador del mundo",
+        "pasaje": "Lucas 2:6-7",
+        "descripcion": "María da a luz a Jesús en Belén, cumpliendo la profecía del Mesías.",
+        "verse": "Y aconteció que estando ellos allí, se cumplieron los días de su alumbramiento. Y dio a luz a su hijo primogénito, y lo envolvió en pañales, y lo acostó en un pesebre, porque no había lugar para ellos en el mesón."
+    },
+    {
+        "id": 16,
+        "tema": "Jesús llama a sus primeros discípulos",
+        "rol": "Llamado al discipulado",
+        "pasaje": "Mateo 4:18-20",
+        "descripcion": "Jesús llama a Pedro y Andrés para que lo sigan como sus discípulos.",
+        "verse": "Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores. Y les dijo: Venid en pos de mí, y os haré pescadores de hombres."
+    },
+    {
+        "id": 17,
+        "tema": "Jesús sana al ciego Bartimeo",
+        "rol": "Milagro de sanación",
+        "pasaje": "Marcos 10:46-52",
+        "descripcion": "Jesús sana a Bartimeo, un ciego que clama por Su ayuda.",
+        "verse": "Entonces Jesús, deteniéndose, mandó llamarle; y llamaron al ciego, diciéndole: Ten confianza; levántate, te llama. Él entonces, arrojando su capa, se levantó y vino a Jesús."
+    },
+    {
+        "id": 18,
+        "tema": "La Resurrección de Lázaro",
+        "rol": "Milagro de resurrección",
+        "pasaje": "Juan 11:43-44",
+        "descripcion": "Jesús demuestra Su poder sobre la muerte resucitando a Lázaro.",
+        "verse": "Y habiendo dicho esto, clamó a gran voz: ¡Lázaro, ven fuera! Y el que había muerto salió, atadas las manos y los pies con vendas, y el rostro envuelto en un sudario."
+    },
+    {
+        "id": 19,
+        "tema": "La Última Cena",
+        "rol": "Institución de la comunión",
+        "pasaje": "Lucas 22:19-20",
+        "descripcion": "Jesús comparte el pan y el vino con sus discípulos, representando su cuerpo y sangre.",
+        "verse": "Y tomó el pan y dio gracias, y lo partió y les dio, diciendo: Esto es mi cuerpo, que por vosotros es dado; haced esto en memoria de mí."
+    },
+    {
+        "id": 20,
+        "tema": "La Crucifixión de Jesús",
+        "rol": "Sacrificio por la humanidad",
+        "pasaje": "Mateo 27:45-46",
+        "descripcion": "Jesús es crucificado en el Calvario, cumpliendo la misión de salvación.",
+        "verse": "Y desde la hora sexta hubo tinieblas sobre toda la tierra hasta la hora novena. Cerca de la hora novena, Jesús clamó a gran voz, diciendo: Elí, Elí, ¿lama sabactani? esto es: Dios mío, Dios mío, ¿por qué me has desamparado?"
+    },
+    {
+        "id": 21,
+        "tema": "La Resurrección de Jesús",
+        "rol": "Victoria sobre la muerte",
+        "pasaje": "Mateo 28:5-6",
+        "descripcion": "Jesús resucita al tercer día, mostrando su poder y cumpliendo las profecías.",
+        "verse": "Mas el ángel, respondiendo, dijo a las mujeres: No temáis vosotras; porque yo sé que buscáis a Jesús, el que fue crucificado. No está aquí, pues ha resucitado, como dijo."
+    },
+    {
+        "id": 22,
+        "tema": "La Ascensión de Jesús",
+        "rol": "Regreso al Padre",
+        "pasaje": "Hechos 1:9",
+        "descripcion": "Jesús asciende al cielo mientras sus discípulos lo observan.",
+        "verse": "Y habiendo dicho estas cosas, viéndolo ellos, fue alzado, y le recibió una nube que le ocultó de sus ojos."
+    },
+    {
+        "id": 23,
+        "tema": "La Venida del Espíritu Santo",
+        "rol": "Empoderamiento de la iglesia",
+        "pasaje": "Hechos 2:1-4",
+        "descripcion": "El Espíritu Santo desciende sobre los discípulos en Pentecostés.",
+        "verse": "Cuando llegó el día de Pentecostés, estaban todos unánimes juntos; y de repente vino del cielo un estruendo como de un viento recio que soplaba, el cual llenó toda la casa donde estaban sentados."
+    },
+    {
+        "id": 24,
+        "tema": "El Sermón de Pedro",
+        "rol": "Predicación de salvación",
+        "pasaje": "Hechos 2:14-41",
+        "descripcion": "Pedro predica y tres mil personas se arrepienten y son bautizadas.",
+        "verse": "Entonces Pedro, poniéndose en pie con los once, alzó la voz y les habló, diciendo: Varones judíos, y todos los que habitáis en Jerusalén, esto os sea notorio, y oíd mis palabras."
+    },
+    {
+        "id": 25,
+        "tema": "Conversión de Saulo",
+        "rol": "Transformación en apóstol",
+        "pasaje": "Hechos 9:3-6",
+        "descripcion": "Saulo es confrontado por Jesús en el camino a Damasco y se convierte en seguidor de Cristo.",
+        "verse": "Mas yendo por el camino, aconteció que al llegar cerca de Damasco, repentinamente le rodeó un resplandor de luz del cielo; y cayendo en tierra, oyó una voz que le decía: Saulo, Saulo, ¿por qué me persigues?"
+    },
+    {
+        "id": 26,
+        "tema": "Pedro y Cornelio",
+        "rol": "Apertura del evangelio a los gentiles",
+        "pasaje": "Hechos 10:34-35",
+        "descripcion": "Pedro comprende que el evangelio es también para los gentiles a través de la visión y encuentro con Cornelio.",
+        "verse": "Entonces Pedro, abriendo la boca, dijo: En verdad comprendo que Dios no hace acepción de personas, sino que en toda nación se agrada del que le teme y hace justicia."
+    },
+    {
+        "id": 27,
+        "tema": "La Visión de Juan en Patmos",
+        "rol": "Revelación del futuro",
+        "pasaje": "Apocalipsis 1:10-19",
+        "descripcion": "Juan recibe la revelación de Jesucristo y ve visiones del futuro.",
+        "verse": "Yo estaba en el Espíritu en el día del Señor, y oí detrás de mí una gran voz, como de trompeta, que decía: Yo soy el Alfa y la Omega, el primero y el último; escribe en un libro lo que ves, y envíalo a las siete iglesias."
+    },
+    {
+        "id": 28,
+        "tema": "Las Siete Iglesias de Asia",
+        "rol": "Mensajes de corrección",
+        "pasaje": "Apocalipsis 2:1-7",
+        "descripcion": "Jesús envía cartas a las iglesias de Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea.",
+        "verse": "Escribe al ángel de la iglesia en Éfeso: El que tiene las siete estrellas en su diestra, el que anda en medio de los siete candeleros de oro, dice esto: Yo conozco tus obras, y tu arduo trabajo, y tu paciencia."
+    },
+    {
+        "id": 29,
+        "tema": "El Juicio Final",
+        "rol": "El regreso de Cristo",
+        "pasaje": "Apocalipsis 20:11-15",
+        "descripcion": "El gran juicio final, donde todos serán juzgados según sus obras.",
+        "verse": "Y vi un gran trono blanco y al que estaba sentado en él, de cuya presencia huyeron la tierra y el cielo, y ningún lugar se encontró para ellos. Y vi a los muertos, grandes y pequeños, de pie ante Dios; y los libros fueron abiertos."
+    },
+    {
+        "id": 30,
+        "tema": "El Nuevo Cielo y la Nueva Tierra",
+        "rol": "Restauración del orden",
+        "pasaje": "Apocalipsis 21:1-4",
+        "descripcion": "La creación de un nuevo cielo y nueva tierra, sin más dolor ni sufrimiento.",
+        "verse": "Vi un cielo nuevo y una tierra nueva; porque el primer cielo y la primera tierra pasaron, y el mar ya no existía más. Y yo, Juan, vi la ciudad santa, la nueva Jerusalén, que descendía del cielo, de Dios, dispuesta como una esposa ataviada para su marido."
+    },
+    {
+        "id": 31,
+        "tema": "La Gran Multitud Blanca",
+        "rol": "Los redimidos",
+        "pasaje": "Apocalipsis 7:9-10",
+        "descripcion": "Una gran multitud de personas redimidas de todas las naciones, adorando a Dios.",
+        "verse": "Después de esto miré, y he aquí una gran multitud, la cual nadie podía contar, de todas naciones, tribus, pueblos y lenguas, que estaban delante del trono y en la presencia del Cordero, vestidos de ropas blancas, y con palmas en las manos."
+    },
+    {
+        "id": 32,
+        "tema": "La Promesa del Espíritu Santo",
+        "rol": "El Consolador prometido",
+        "pasaje": "Juan 14:16-17",
+        "descripcion": "Jesús promete enviar al Espíritu Santo para que esté con sus discípulos.",
+        "verse": "Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre; el Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve ni le conoce; pero vosotros le conocéis, porque mora con vosotros, y será en vosotros."
+    },
+    {
+        "id": 33,
+        "tema": "La Gran Comisión",
+        "rol": "Misión de los discípulos",
+        "pasaje": "Mateo 28:18-20",
+        "descripcion": "Jesús instruye a sus discípulos a ir y hacer discípulos de todas las naciones.",
+        "verse": "Y Jesús se acercó y les habló, diciendo: Toda potestad me es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo."
+    },
+    {
+        "id": 34,
+        "tema": "El Buen Pastor",
+        "rol": "Jesús como protector y guía",
+        "pasaje": "Juan 10:11-15",
+        "descripcion": "Jesús se presenta como el Buen Pastor que da su vida por las ovejas.",
+        "verse": "Yo soy el buen pastor; el buen pastor su vida da por las ovejas. Pero el asalariado, y que no es el pastor, de quien no son las ovejas, ve venir al lobo, y deja las ovejas, y huye; y el lobo las arrebata, y dispersa las ovejas."
+    },
+    {
+        "id": 35,
+        "tema": "La Resurrección de los Muertos",
+        "rol": "Esperanza en Cristo",
+        "pasaje": "1 Corintios 15:20-22",
+        "descripcion": "La resurrección de los muertos a través de la victoria de Cristo.",
+        "verse": "Pero ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho. Porque por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos. Pues así como en Adán todos mueren, también en Cristo todos serán vivificados."
+    },
+    {
+        "id": 36,
+        "tema": "El Amor de Dios",
+        "rol": "Carácter de Dios",
+        "pasaje": "1 Juan 4:9-10",
+        "descripcion": "El amor de Dios es demostrado al enviar a Su Hijo para la salvación del mundo.",
+        "verse": "En esto se mostró el amor de Dios para con nosotros, en que Dios envió a su Hijo unigénito al mundo, para que vivamos por él. En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que él nos amó a nosotros, y envió a su Hijo en propiciación por nuestros pecados."
+    },
+    {
+        "id": 37,
+        "tema": "La Fe de Abraham",
+        "rol": "Ejemplo de fe",
+        "pasaje": "Romanos 4:3",
+        "descripcion": "Abraham es justificado por su fe en las promesas de Dios.",
+        "verse": "Porque ¿qué dice la Escritura? Creyó Abraham a Dios, y le fue contado por justicia."
+    },
+    {
+        "id": 38,
+        "tema": "La Armadura de Dios",
+        "rol": "Preparación espiritual",
+        "pasaje": "Efesios 6:10-17",
+        "descripcion": "Pablo instruye sobre cómo estar firmes en la fe usando la armadura espiritual que Dios provee.",
+        "verse": "Por lo demás, hermanos míos, fortaleceos en el Señor, y en el poder de su fuerza. Vestíos de toda la armadura de Dios, para que podáis estar firmes contra las asechanzas del diablo."
+    },
+    {
+        "id": 39,
+        "tema": "La Paz de Dios",
+        "rol": "Consolación y esperanza",
+        "pasaje": "Filipenses 4:6-7",
+        "descripcion": "Pablo anima a los creyentes a no estar ansiosos, sino a confiar en la paz de Dios.",
+        "verse": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias. Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús."
+    },
+    {
+        "id": 40,
+        "tema": "El Fruto del Espíritu",
+        "rol": "Vida transformada por el Espíritu",
+        "pasaje": "Gálatas 5:22-23",
+        "descripcion": "Pablo describe las cualidades que el Espíritu Santo produce en la vida del creyente.",
+        "verse": "Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza; contra tales cosas no hay ley."
+    },
+    {
+        "id": 41,
+        "tema": "La Promesa del Regreso de Cristo",
+        "rol": "Esperanza para los creyentes",
+        "pasaje": "Juan 14:3",
+        "descripcion": "Jesús promete regresar para llevar a sus discípulos a su morada.",
+        "verse": "Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo; para que donde yo estoy, vosotros también estéis."
+      },
+      {
+        "id": 42,
+        "tema": "El Perdón de los Pecados",
+        "rol": "La gracia de Dios",
+        "pasaje": "1 Juan 1:9",
+        "descripcion": "Dios es fiel y justo para perdonar nuestros pecados si los confesamos.",
+        "verse": "Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad."
+      },
+      {
+        "id": 43,
+        "tema": "El Mandamiento del Amor",
+        "rol": "El amor como esencia cristiana",
+        "pasaje": "Juan 13:34-35",
+        "descripcion": "Jesús da el mandamiento de amarnos los unos a los otros como Él nos ha amado.",
+        "verse": "Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis unos a otros. En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros."
+      },
+      {
+        "id": 44,
+        "tema": "El Amor de Dios por la Humanidad",
+        "rol": "El sacrificio de Cristo",
+        "pasaje": "Juan 3:16",
+        "descripcion": "Dios muestra su amor al dar a su Hijo unigénito para que todos los que creen en Él tengan vida eterna.",
+        "verse": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree no se pierda, mas tenga vida eterna."
+      },
+      {
+        "id": 45,
+        "tema": "La Importancia de la Oración",
+        "rol": "Comunión con Dios",
+        "pasaje": "Mateo 7:7-8",
+        "descripcion": "Jesús enseña sobre la importancia de pedir, buscar y llamar en oración.",
+        "verse": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá. Porque todo aquel que pide, recibe; y el que busca, halla; y al que llama, se le abrirá."
+      },
+      {
+        "id": 46,
+        "tema": "La Gracia de Dios",
+        "rol": "La salvación inmerecida",
+        "pasaje": "Efesios 2:8-9",
+        "descripcion": "La salvación es un regalo inmerecido de Dios, no por obras, sino por su gracia.",
+        "verse": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+      },
+      {
+        "id": 47,
+        "tema": "La Sabiduría Divina",
+        "rol": "Buscar la sabiduría",
+        "pasaje": "Proverbios 2:6",
+        "descripcion": "La sabiduría es dada por Dios y es más valiosa que el oro.",
+        "verse": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia."
+      },
+      {
+        "id": 48,
+        "tema": "El Propósito de la Vida Cristiana",
+        "rol": "Vivir para glorificar a Dios",
+        "pasaje": "Colosenses 3:17",
+        "descripcion": "Todo lo que hagamos debe ser hecho en el nombre de Jesús, dando gracias a Dios Padre.",
+        "verse": "Y todo lo que hacéis, sea de palabra o de hecho, hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+      },
+      {
+        "id": 49,
+        "tema": "El Poder de la Resurrección",
+        "rol": "Victoria sobre la muerte",
+        "pasaje": "Filipenses 3:10",
+        "descripcion": "Pablo desea conocer el poder de la resurrección de Cristo y la comunión en sus sufrimientos.",
+        "verse": "A fin de conocerle, y el poder de su resurrección, y la participación de sus padecimientos, siendo hechos conforme a su muerte."
+      },
+      {
+        "id": 50,
+        "tema": "La Voluntad de Dios",
+        "rol": "Buscar la voluntad divina",
+        "pasaje": "Romanos 12:2",
+        "descripcion": "No conformarse a este mundo, sino ser transformados para probar la voluntad de Dios.",
+        "verse": "No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento, para que comprobéis cuál sea la buena voluntad de Dios, agradable y perfecta."
+      },
+      {
+        "id": 51,
+        "tema": "La Fuerza de los Débiles",
+        "rol": "La gracia que fortalece",
+        "pasaje": "2 Corintios 12:9-10",
+        "descripcion": "Dios le dice a Pablo que su gracia es suficiente y que la debilidad humana demuestra su poder.",
+        "verse": "Y me ha dicho: Bástate mi gracia; porque mi poder se perfecciona en la debilidad. Por lo cual, de buena gana me gloriaré más bien en mis debilidades, para que repose sobre mí el poder de Cristo."
+      },
+      {
+        "id": 52,
+        "tema": "La Resistencia en la Tentación",
+        "rol": "Permanecer firmes en la fe",
+        "pasaje": "1 Corintios 10:13",
+        "descripcion": "Dios no permitirá que seamos tentados más allá de lo que podemos resistir.",
+        "verse": "No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podáis resistir; sino que dará también juntamente con la tentación la salida, para que podáis soportar."
+      },
+      {
+        "id": 53,
+        "tema": "El Amor Incondicional de Dios",
+        "rol": "Dios ama sin condición",
+        "pasaje": "Romanos 5:8",
+        "descripcion": "Dios demuestra su amor al enviar a Cristo a morir por nosotros, aun cuando éramos pecadores.",
+        "verse": "Pero Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros."
+      },
+      {
+        "id": 54,
+        "tema": "La Paz con Dios",
+        "rol": "Reconciliación a través de Cristo",
+        "pasaje": "Romanos 5:1",
+        "descripcion": "Por la fe, tenemos paz con Dios a través de nuestro Señor Jesucristo.",
+        "verse": "Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo."
+      },
+      {
+        "id": 55,
+        "tema": "La Esperanza en Cristo",
+        "rol": "Esperanza viva",
+        "pasaje": "1 Pedro 1:3-4",
+        "descripcion": "Hemos nacido de nuevo para una esperanza viva, reservada en los cielos para nosotros.",
+        "verse": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que según su gran misericordia nos hizo renacer para una esperanza viva, por la resurrección de Jesucristo de los muertos, para una herencia incorruptible, incontaminada e inmarcesible, reservada en los cielos para vosotros."
+      },
+      {
+        "id": 56,
+        "tema": "El Poder de la Palabra de Dios",
+        "rol": "Guía y poder",
+        "pasaje": "Hebreos 4:12",
+        "descripcion": "La palabra de Dios es viva, eficaz y más penetrante que cualquier espada de dos filos.",
+        "verse": "Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos, y penetra hasta partir el alma y el espíritu, las coyunturas y los tuétanos, y discierne los pensamientos y las intenciones del corazón."
+      },
+
+      {
+        "id": 57,
+        "tema": "La Misericordia de Dios",
+        "rol": "Dios es rico en misericordia",
+        "pasaje": "Efesios 2:4-5",
+        "descripcion": "Dios, por su gran misericordia, nos da vida a pesar de nuestra condición de muertos en pecado.",
+        "verse": "Pero Dios, que es rico en misericordia, por su gran amor con que nos amó, aun estando nosotros muertos en pecados, nos dio vida juntamente con Cristo (por gracia sois salvos)."
+      },
+      {
+        "id": 58,
+        "tema": "La Sufrimiento por Cristo",
+        "rol": "Compartir en los padecimientos de Cristo",
+        "pasaje": "Filipenses 1:29",
+        "descripcion": "A los creyentes se les concede no solo creer en Cristo, sino también sufrir por Él.",
+        "verse": "Porque a vosotros os es concedido a causa de Cristo, no solo que creáis en él, sino también que padezcáis por él."
+      },
+      {
+        "id": 59,
+        "tema": "La Armonía de la Iglesia",
+        "rol": "Unidad en Cristo",
+        "pasaje": "1 Corintios 1:10",
+        "descripcion": "La iglesia debe estar unida en el mismo pensamiento y en el mismo parecer.",
+        "verse": "Os ruego, pues, hermanos, por el nombre de nuestro Señor Jesucristo, que habléis todos una misma cosa, y que no haya entre vosotros divisiones; antes bien, sed perfectamente unidos en una misma mente y en un mismo parecer."
+      },
+      {
+        "id": 60,
+        "tema": "La Paz de Dios",
+        "rol": "La paz que sobrepasa todo entendimiento",
+        "pasaje": "Filipenses 4:7",
+        "descripcion": "La paz de Dios guardará nuestros corazones y pensamientos en Cristo Jesús.",
+        "verse": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús."
+      },
+      {
+        "id": 61,
+        "tema": "La Fuerza del Amor",
+        "rol": "El amor como la mayor virtud",
+        "pasaje": "1 Corintios 13:13",
+        "descripcion": "El amor es la mayor de las virtudes que debemos perseguir.",
+        "verse": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor."
+      },
+      {
+        "id": 62,
+        "tema": "La Llamada a la Santidad",
+        "rol": "Vivir una vida santa",
+        "pasaje": "1 Pedro 1:15-16",
+        "descripcion": "Somos llamados a ser santos, ya que Dios es santo.",
+        "verse": "Sino, como aquel que os llamó es santo, sed también vosotros santos en toda vuestra manera de vivir; porque escrito está: Sed santos, porque yo soy santo."
+      },
+      {
+        "id": 63,
+        "tema": "La Gratitud a Dios",
+        "rol": "Un corazón agradecido",
+        "pasaje": "Salmo 100:4",
+        "descripcion": "Entrad en sus puertas con acción de gracias, y en sus atrios con alabanza.",
+        "verse": "Entrad por sus puertas con acción de gracias, por sus atrios con alabanza; alabadle, bendecid su nombre."
+      },
+      {
+        "id": 64,
+        "tema": "El Camino Angosto",
+        "rol": "Seguir a Cristo a pesar de las dificultades",
+        "pasaje": "Mateo 7:13-14",
+        "descripcion": "El camino que lleva a la vida es estrecho y difícil, y pocos lo encuentran.",
+        "verse": "Entrad por la puerta estrecha, porque ancha es la puerta y espacioso el camino que lleva a la perdición, y muchos son los que entran por ella. Porque estrecha es la puerta y angosto el camino que lleva a la vida, y pocos son los que la hallan."
+      },
+      {
+        "id": 65,
+        "tema": "La Alegría en el Señor",
+        "rol": "Gozo en medio de las pruebas",
+        "pasaje": "Filipenses 4:4",
+        "descripcion": "Debemos alegrarnos siempre en el Señor.",
+        "verse": "Regocijaos en el Señor siempre. Otra vez os digo: ¡Regocijaos!"
+      },
+      {
+        "id": 66,
+        "tema": "La Reconciliación con Dios",
+        "rol": "La paz que trae Cristo",
+        "pasaje": "2 Corintios 5:18-19",
+        "descripcion": "Dios nos ha reconciliado consigo mismo a través de Cristo y nos ha dado el ministerio de la reconciliación.",
+        "verse": "Y todo esto proviene de Dios, quien nos reconcilió consigo mismo por Cristo, y nos dio el ministerio de la reconciliación; es decir, que Dios estaba en Cristo reconciliando al mundo consigo mismo, no tomándoles en cuenta a los hombres sus pecados, y nos encargó a nosotros la palabra de la reconciliación."
+      },
+      {
+        "id": 67,
+        "tema": "La Sabiduría Divina",
+        "rol": "La sabiduría viene de Dios",
+        "pasaje": "Santiago 1:5",
+        "descripcion": "Si alguno tiene falta de sabiduría, pídala a Dios, quien la da abundantemente.",
+        "verse": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada."
+      },
+      {
+        "id": 68,
+        "tema": "La Promesa del Espíritu Santo",
+        "rol": "La presencia de Dios con nosotros",
+        "pasaje": "Hechos 1:8",
+        "descripcion": "El Espíritu Santo dará poder a los creyentes para ser testigos de Cristo en el mundo.",
+        "verse": "Pero recibiréis poder cuando haya venido sobre vosotros el Espíritu Santo; y me seréis testigos en Jerusalén, en toda Judea y Samaria, y hasta lo último de la tierra."
+      },
+      {
+        "id": 69,
+        "tema": "La Paciencia en las Pruebas",
+        "rol": "Desarrollar carácter a través de las pruebas",
+        "pasaje": "Santiago 1:2-4",
+        "descripcion": "Las pruebas producen paciencia y madurez espiritual.",
+        "verse": "Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia. Y la paciencia, tiene su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna."
+      },
+      {
+        "id": 70,
+        "tema": "El Poder de la Fe",
+        "rol": "La fe mueve montañas",
+        "pasaje": "Mateo 17:20",
+        "descripcion": "Con fe, aunque sea del tamaño de un grano de mostaza, se puede mover una montaña.",
+        "verse": "Jesús les dijo: Por vuestra poca fe; porque de cierto os digo, que si tuviereis fe como un grano de mostaza, podríais decir a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible."
+      },
+      {
+        "id": 71,
+        "tema": "La Libertad en Cristo",
+        "rol": "Libertad del pecado",
+        "pasaje": "Gálatas 5:1",
+        "descripcion": "Cristo nos ha hecho libres, no volvamos a someternos al yugo de la esclavitud.",
+        "verse": "Estad, pues, firmes en la libertad con que Cristo nos hizo libres, y no estéis otra vez sujetos al yugo de esclavitud."
+      },
+      {
+        "id": 72,
+        "tema": "La Disciplina del Señor",
+        "rol": "Ser corregidos por amor",
+        "pasaje": "Hebreos 12:6",
+        "descripcion": "El Señor disciplina a los que ama, como un padre a sus hijos.",
+        "verse": "Porque el Señor al que ama, disciplina, y azota a todo el que recibe por hijo."
+      },
+      {
+        "id": 73,
+        "tema": "La Vida Abundante",
+        "rol": "Cristo como la fuente de vida",
+        "pasaje": "Juan 10:10",
+        "descripcion": "Jesús vino para que tengamos vida y vida en abundancia.",
+        "verse": "El ladrón no viene sino para hurtar, y matar, y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia."
+      },
+      {
+        "id": 74,
+        "tema": "El Amor de Dios",
+        "rol": "Dios es amor",
+        "pasaje": "1 Juan 4:8",
+        "descripcion": "Dios es amor, y su amor es la base de nuestra relación con Él.",
+        "verse": "El que no ama, no ha conocido a Dios; porque Dios es amor."
+      },
+      {
+        "id": 75,
+        "tema": "La Resurrección de los Muertos",
+        "rol": "La esperanza de la resurrección",
+        "pasaje": "1 Corintios 15:22",
+        "descripcion": "Así como todos mueren en Adán, todos serán vivificados en Cristo.",
+        "verse": "Porque así como en Adán todos mueren, también en Cristo todos serán vivificados."
+      },
+      {
+        "id": 76,
+        "tema": "El Reino de Dios",
+        "rol": "Buscar el Reino de Dios",
+        "pasaje": "Mateo 6:33",
+        "descripcion": "Debemos buscar primero el Reino de Dios y su justicia.",
+        "verse": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas."
+      },
+      {
+        "id": 77,
+        "tema": "La Esperanza en Cristo",
+        "rol": "Cristo es nuestra esperanza",
+        "pasaje": "Colosenses 1:27",
+        "descripcion": "Cristo en nosotros es la esperanza de gloria.",
+        "verse": "A quienes Dios quiso dar a conocer las riquezas de la gloria de este misterio entre los gentiles, que es Cristo en vosotros, la esperanza de gloria."
+      },
+      {
+        "id": 78,
+        "tema": "La Fortaleza en Dios",
+        "rol": "Fortaleza divina en tiempos de dificultad",
+        "pasaje": "Filipenses 4:13",
+        "descripcion": "Puedo hacer todas las cosas en Cristo que me fortalece.",
+        "verse": "Todo lo puedo en Cristo que me fortalece."
+      },
+      {
+        "id": 79,
+        "tema": "La Promesa del Espíritu Santo",
+        "rol": "El Espíritu será nuestro Consolador",
+        "pasaje": "Juan 14:16-17",
+        "descripcion": "El Espíritu Santo será enviado como Consolador para habitar con nosotros.",
+        "verse": "Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre; el Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce; pero vosotros le conocéis, porque mora con vosotros, y estará en vosotros."
+      },
+      {
+        "id": 80,
+        "tema": "El Perdón de los Pecados",
+        "rol": "Dios perdona a quienes se arrepienten",
+        "pasaje": "1 Juan 1:9",
+        "descripcion": "Si confesamos nuestros pecados, Dios es fiel para perdonarnos.",
+        "verse": "Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad."
+      },
+      {
+        "id": 81,
+        "tema": "La Fuerza en la Oración",
+        "rol": "La oración mueve montañas",
+        "pasaje": "Marcos 11:24",
+        "descripcion": "Todo lo que pidamos en oración, creyendo, lo recibiremos.",
+        "verse": "Por tanto, os digo que todo lo que pidierais orando, creed que lo recibiréis, y os vendrá."
+      },
+      {
+        "id": 82,
+        "tema": "La Paz Interior",
+        "rol": "La paz que Cristo da",
+        "pasaje": "Juan 14:27",
+        "descripcion": "La paz que Cristo nos da es diferente de la paz del mundo.",
+        "verse": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo."
+      },
+      {
+        "id": 83,
+        "tema": "La Resurrección de Cristo",
+        "rol": "Cristo venció la muerte",
+        "pasaje": "1 Corintios 15:55-57",
+        "descripcion": "La muerte ha sido vencida por Cristo, quien nos da la victoria.",
+        "verse": "¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria? Ya que el aguijón de la muerte es el pecado, y el poder del pecado es la ley. Pero gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo."
+      },
+      {
+        "id": 84,
+        "tema": "La Fidelidad de Dios",
+        "rol": "Dios es fiel a sus promesas",
+        "pasaje": "1 Corintios 1:9",
+        "descripcion": "Dios es fiel, quien nos llamó a la comunión con su Hijo, Jesucristo.",
+        "verse": "Fiel es Dios, por el cual fuisteis llamados a la comunión con su Hijo Jesucristo nuestro Señor."
+      },
+      {
+        "id": 85,
+        "tema": "El Gozo del Señor",
+        "rol": "El gozo en el Señor es nuestra fuerza",
+        "pasaje": "Nehemías 8:10",
+        "descripcion": "El gozo del Señor es nuestra fortaleza, incluso en tiempos difíciles.",
+        "verse": "Entonces les dijo: Id, comed grosura, y bebed vino dulce, y enviad porciones a los que no tienen nada preparado, porque día santo es a nuestro Señor; y no os contristéis, porque el gozo de Jehová es vuestra fuerza."
+      },
+      {
+        "id": 86,
+        "tema": "La Fidelidad en la Oración",
+        "rol": "Orar con persistencia",
+        "pasaje": "Lucas 18:1",
+        "descripcion": "Jesús nos enseña a orar siempre y no desmayar.",
+        "verse": "También les refirió Jesús una parábola sobre la necesidad de orar siempre y no desmayar."
+      },
+      {
+        "id": 87,
+        "tema": "La Misericordia de Dios",
+        "rol": "La misericordia de Dios nos alcanza",
+        "pasaje": "Romanos 5:8",
+        "descripcion": "Dios demuestra su amor hacia nosotros al enviar a Cristo para morir por nosotros mientras aún éramos pecadores.",
+        "verse": "Pero Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros."
+      },
+      {
+        "id": 88,
+        "tema": "La Sabiduría de Dios",
+        "rol": "Dios da sabiduría generosamente",
+        "pasaje": "Santiago 1:5",
+        "descripcion": "Si tenemos falta de sabiduría, debemos pedirla a Dios, quien da generosamente.",
+        "verse": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada."
+      },
+      {
+        "id": 89,
+        "tema": "La Esperanza Viva",
+        "rol": "Nuestra esperanza está en la resurrección de Cristo",
+        "pasaje": "1 Pedro 1:3",
+        "descripcion": "Hemos nacido de nuevo a una esperanza viva por la resurrección de Jesucristo de entre los muertos.",
+        "verse": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que, según su grande misericordia, nos hizo renacer para una esperanza viva, por la resurrección de Jesucristo de entre los muertos."
+      },
+      {
+        "id": 90,
+        "tema": "La Gracia de Dios",
+        "rol": "La gracia es la enseñanza que nos salva",
+        "pasaje": "Tito 2:11-12",
+        "descripcion": "La gracia de Dios nos enseña a vivir de manera justa y piadosa en este mundo.",
+        "verse": "Porque la gracia de Dios se ha manifestado para salvación a todos los hombres, enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente."
+      },
+      {
+        "id": 91,
+        "tema": "La Obediencia a Dios",
+        "rol": "Obedecer es mejor que el sacrificio",
+        "pasaje": "1 Samuel 15:22",
+        "descripcion": "La obediencia a Dios es más importante que cualquier sacrificio.",
+        "verse": "Y Samuel dijo: ¿Se complace Jehová tanto en los holocaustos y víctimas, como en que obedezca a las palabras de Jehová? Ciertamente el obedecer es mejor que los sacrificios, y el prestar atención que la grosura de los carneros."
+      },
+      {
+        "id": 92,
+        "tema": "La Paz en la Tormenta",
+        "rol": "Jesús da paz en medio de las dificultades",
+        "pasaje": "Marcos 4:39-40",
+        "descripcion": "Jesús calma la tormenta y muestra su poder y autoridad sobre la naturaleza.",
+        "verse": "Y él, levantándose, reprendió al viento y dijo al mar: Paz, cállate. Y cesó el viento, y se hizo gran bonanza. Y les dijo: ¿Por qué estáis así amedrentados? ¿Cómo no tenéis fe?"
+      },
+      {
+        "id": 93,
+        "tema": "La Llamada al Arrepentimiento",
+        "rol": "Arrepentirse y volverse a Dios",
+        "pasaje": "Hechos 3:19",
+        "descripcion": "El arrepentimiento trae tiempos de refrigerio de parte de Dios.",
+        "verse": "Así que arrepentíos y convertíos, para que sean borrados vuestros pecados, para que vengan de la presencia del Señor tiempos de refrigerio."
+      },
+      {
+        "id": 94,
+        "tema": "La Gracia Salvadora",
+        "rol": "La gracia de Dios nos salva",
+        "pasaje": "Efesios 2:8-9",
+        "descripcion": "Es por gracia que somos salvos, no por nuestras obras.",
+        "verse": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe."
+      },
+      {
+        "id": 95,
+        "tema": "La Promesa de la Vida Eterna",
+        "rol": "La vida eterna es el regalo de Dios",
+        "pasaje": "Juan 3:16",
+        "descripcion": "Dios dio a su Hijo para que todo el que cree en Él no se pierda, sino que tenga vida eterna.",
+        "verse": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+      },
+      {
+        "id": 96,
+        "tema": "El Poder de la Palabra de Dios",
+        "rol": "La Palabra de Dios tiene poder",
+        "pasaje": "Isaías 55:11",
+        "descripcion": "La Palabra de Dios cumple su propósito y no vuelve vacía.",
+        "verse": "Así será mi palabra que sale de mi boca; no volverá a mí vacía, sino que hará lo que yo quiero, y será prosperada en aquello para que la envié."
+      },
+      {
+        "id": 97,
+        "tema": "La Fuerza en la Fe",
+        "rol": "La fe nos da fuerza",
+        "pasaje": "Mateo 17:20",
+        "descripcion": "Con fe tan pequeña como un grano de mostaza, podemos mover montañas.",
+        "verse": "Y les dijo: Por vuestra poca fe; porque de cierto os digo, que si tuviereis fe como un grano de mostaza, podréis decir a este monte: Pásate de aquí allá, y se pasará; y nada os será imposible."
+      },
+      {
+        "id": 98,
+        "tema": "El Amor al Prójimo",
+        "rol": "Amar al prójimo como a ti mismo",
+        "pasaje": "Mateo 22:39",
+        "descripcion": "Debemos amar a nuestro prójimo como a nosotros mismos.",
+        "verse": "Y el segundo es semejante: Amarás a tu prójimo como a ti mismo."
+      },
+      {
+        "id": 99,
+        "tema": "El Buen Pastor",
+        "rol": "Jesús, nuestro Buen Pastor",
+        "pasaje": "Juan 10:11",
+        "descripcion": "Jesús es el buen pastor que da su vida por las ovejas.",
+        "verse": "Yo soy el buen pastor; el buen pastor su vida da por las ovejas."
+      },
+      {
+        "id": 100,
+        "tema": "La Verdad de Cristo",
+        "rol": "Jesús es la verdad",
+        "pasaje": "Juan 14:6",
+        "descripcion": "Jesús es el camino, la verdad y la vida; nadie viene al Padre sino por Él.",
+        "verse": "Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí."
+      }
+]
