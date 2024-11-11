@@ -18,6 +18,23 @@ app.use(cors({
 const versePath = path.join(__dirname, "../json/ReferenciasBiblicas.json");
 let verseData = [];
 
+const sermonPath = path.join(__dirname, "../json/BosquejoPredicacionales.json");
+let sermonData = [];
+
+// Leer el archivo JSON y almacenar los datos en SermonData
+fs.readFile(sermonPath, 'utf-8', (err, data) => {
+  if (err) {
+    console.error("Error al leer el archivo JSON:", err);
+    return;
+  }
+
+  try {
+    sermonData = JSON.parse(data); // Parsear los datos JSON y almacenarlos en sermonData
+  } catch (parseError) {
+    console.error("Error al parsear el archivo JSON:", parseError);
+  }
+});
+
 // Leer el archivo JSON y almacenar los datos en verseData
 fs.readFile(versePath, 'utf-8', (err, data) => {
   if (err) {
@@ -30,6 +47,10 @@ fs.readFile(versePath, 'utf-8', (err, data) => {
   } catch (parseError) {
     console.error("Error al parsear el archivo JSON:", parseError);
   }
+});
+// Ruta para devolver todos los datos de sermonData
+app.get("/api/sermones", (req, res) => {
+  res.json(sermonData); // Responder con todos los datos de verseData
 });
 
 // Ruta para devolver todos los datos de verseData
