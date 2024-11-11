@@ -13,6 +13,7 @@ const STREAM_URL = process.env.STREAM_URL;
 // Habilitar CORS para todas las rutas
 app.use(cors({
   origin: 'http://localhost:3001', // Cambia esto al puerto donde tu frontend está corriendo
+  origin: "https://idec-tiempos-de-gloria.vercel.app",
 }));
 
 const versePath = path.join(__dirname, "../json/ReferenciasBiblicas.json");
