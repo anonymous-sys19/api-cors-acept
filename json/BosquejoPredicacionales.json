@@ -700,5 +700,83 @@
                 "contexto": "Dios abre la puerta de la salvación a todas las personas, y la iglesia es llamada a anunciar esta verdad con valentía y amor."
             }
         }
+    },
+    {
+        "id": "11",
+        "tema": "Esperando a Dios en el Monte, pero Perdiéndonos en el Valle",
+        "pasaje": "Éxodo 32:1-6",
+        "contenido": "El pueblo de Israel se impacientó mientras Moisés estaba en el monte y creó un becerro de oro para adorar. Hoy en día, nuestras distracciones modernas pueden convertirse en nuestros ídolos, alejándonos de Dios.",
+        "hashtags": [
+            "idolatría",
+            "distracción",
+            "buscarADios"
+        ],
+        "bosquejo": {
+            "introduccion": {
+                "texto": "El pueblo de Israel, al ver que Moisés tardaba en bajar del monte, decidió crear su propio dios en vez de esperar en el verdadero Dios.",
+                "contexto": "Así como Israel se impacientó y se volvió a la idolatría, nosotros también corremos el peligro de hacer lo mismo con las distracciones modernas como las redes sociales, la pornografía y el materialismo. Estas cosas pueden convertirse en nuestros ídolos si no tenemos cuidado."
+            },
+            "puntos": [
+                {
+                    "titulo": "La Espera en el Monte y la Impaciencia en el Valle",
+                    "contexto": "Moisés estaba en el monte buscando la presencia de Dios, mientras que el pueblo, en el valle, se desesperó y se desvió. Hoy enfrentamos la misma lucha entre esperar en Dios o distraernos con el mundo.",
+                    "subpuntos": [
+                        {
+                            "texto": "El monte representa la comunión con Dios",
+                            "contexto": "Es el lugar de búsqueda, intimidad y paciencia con Dios, donde Él nos habla y nos guía."
+                        },
+                        {
+                            "texto": "El valle representa la impaciencia y la idolatría",
+                            "contexto": "Cuando sentimos que Dios ‘tarda’, muchas veces buscamos atajos en distracciones mundanas en lugar de confiar en Él."
+                        },
+                        {
+                            "texto": "Nuestra lucha es entre la espera y la distracción",
+                            "contexto": "Si no mantenemos nuestros ojos en Dios, caeremos en la idolatría moderna sin darnos cuenta."
+                        }
+                    ]
+                },
+                {
+                    "titulo": "La Idolatría del Siglo XXI: Redes, Pornografía y Distracciones",
+                    "contexto": "El becerro de oro de Israel fue su ídolo visible, pero nuestros ídolos de hoy son sutiles y nos atrapan sin darnos cuenta.",
+                    "subpuntos": [
+                        {
+                            "texto": "Las redes sociales pueden convertirse en ídolos",
+                            "contexto": "Pasar más tiempo en redes que en la presencia de Dios demuestra dónde está nuestra prioridad."
+                        },
+                        {
+                            "texto": "La pornografía esclaviza y destruye",
+                            "contexto": "Es un becerro de oro moderno que contamina nuestra mente y corazón, alejándonos de la santidad de Dios."
+                        },
+                        {
+                            "texto": "El materialismo y la búsqueda del placer",
+                            "contexto": "Si nuestras prioridades están en el dinero, el entretenimiento o el éxito personal antes que Dios, estamos construyendo ídolos."
+                        }
+                    ]
+                },
+                {
+                    "titulo": "La Misericordia de Dios a pesar de nuestra Distracción",
+                    "contexto": "Aunque Israel cayó en la idolatría, Dios les dio la oportunidad de arrepentirse. Hoy también nos llama a volver a Él.",
+                    "subpuntos": [
+                        {
+                            "texto": "Moisés intercedió por el pueblo",
+                            "contexto": "Así como Moisés rogó por Israel, Cristo intercede por nosotros ante el Padre."
+                        },
+                        {
+                            "texto": "Dios nos ofrece perdón si nos arrepentimos",
+                            "contexto": "1 Juan 1:9 nos recuerda que Dios es fiel para perdonarnos si confesamos nuestras faltas."
+                        },
+                        {
+                            "texto": "Es tiempo de derribar nuestros ídolos",
+                            "contexto": "Así como Moisés destruyó el becerro de oro, debemos eliminar aquello que nos aparta de Dios."
+                        }
+                    ]
+                }
+            ],
+            "conclusion": {
+                "texto": "Dios nos está llamando a dejar las distracciones y buscarlo con todo el corazón.",
+                "contexto": "Debemos dejar las distracciones, subir al monte y encontrarnos con Dios. No permitamos que las cosas pasajeras de este mundo nos alejen de la eternidad con Él."
+            }
+        }
     }
+    
 ]
