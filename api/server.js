@@ -113,6 +113,8 @@ const STREAM_URL = process.env.STREAM_URL;
 
 // Habilitar CORS para todas las rutas
 app.use(cors({ origin: "*" }));
+app.options('*', cors());  // Habilita CORS para las solicitudes OPTIONS
+
 
 // Conectar a la base de datos SQLite
 const dbPath = path.join(__dirname, "data.sqlite3");
@@ -132,6 +134,14 @@ const dbVerse = new sqlite3.Database(dbVerses, (err) => {
     console.log("Conectado a la base de datos SQLite");
   }
 });
+
+app.use((req, res, next) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  next();
+});
+
 
 // Ruta para devolver todos los datos de sermones
 app.get("/api/sermones", (req, res) => {
