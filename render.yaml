@@ -1,0 +1,20 @@
+# Exported from Render
+services:
+- type: web
+  name: api-cors-acept
+  runtime: node
+  repo: https://github.com/anonymous-sys19/api-cors-acept
+  plan: free
+  region: oregon
+  buildCommand: |
+    npm install
+    npm rebuild sqlite3
+  startCommand: node api/server.js
+  envVars:
+  - key: NODE_VERSION
+    value: 20  # O usa 18 si prefieres más estabilidad
+  - key: STREAM_URL
+    sync: false
+  - key: DATABASE_URL
+    value: "sqlite:///data/sqlite.db"  # Ajusta si usas otro nombre
+version: "1"
