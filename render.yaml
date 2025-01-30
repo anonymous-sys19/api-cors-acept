@@ -12,7 +12,7 @@ services:
   startCommand: node api/server.js
   envVars:
   - key: NODE_VERSION
-    value: 20  # O usa 18 si prefieres más estabilidad
+    value: 18  # O usa 18 si prefieres más estabilidad
   - key: STREAM_URL
     sync: false
   - key: DATABASE_URL
