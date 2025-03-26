@@ -1352,5 +1352,626 @@
                 "contexto": "Hoy es el día para comenzar a cultivar un corazón agradecido. ¿Qué tienes que agradecerle a Dios? Recuerda que, aunque las circunstancias no cambien, tu perspectiva puede cambiar cuando eliges dar gracias."
             }
         }
-    }
+    },
+    {
+        "id": "19",
+        "tema": "La Fe que Persevera",
+        "pasaje": "Hebreos 11:1",
+        "contenido": "La fe nos sostiene en tiempos de incertidumbre. No es solo creer cuando todo va bien, sino confiar en Dios incluso cuando no vemos la respuesta.",
+        "hashtags": ["fe", "confianza", "DiosEsFiel"],
+        "bosquejo": {
+          "introduccion": {
+            "texto": "Hebreos 11:1 define la fe como 'la certeza de lo que se espera, la convicción de lo que no se ve'. En los momentos de prueba, nuestra fe es puesta a prueba, pero es en esos tiempos cuando debemos aferrarnos más a Dios.",
+            "contexto": "La fe no depende de lo que vemos, sino de la confianza en la fidelidad de Dios. Él es quien sustenta nuestras vidas y cumple sus promesas."
+          },
+          "puntos": [
+            {
+              "titulo": "La fe nos sostiene en las pruebas",
+              "contexto": "Las dificultades son inevitables, pero Dios usa las pruebas para fortalecer nuestra fe.",
+              "subpuntos": [
+                {
+                  "texto": "Dios permite pruebas para perfeccionarnos",
+                  "contexto": "Santiago 1:2-3 nos dice que las pruebas producen paciencia y fortalecen nuestra fe."
+                },
+                {
+                  "texto": "Ejemplo de Job: Confianza en medio del dolor",
+                  "contexto": "A pesar de perderlo todo, Job permaneció firme en su fe, sabiendo que Dios tenía el control (Job 1:21)."
+                }
+              ]
+            },
+            {
+              "titulo": "La fe se fortalece con la Palabra",
+              "contexto": "La fe no se desarrolla en la comodidad, sino en el conocimiento y aplicación de la Palabra de Dios.",
+              "subpuntos": [
+                {
+                  "texto": "La fe viene por el oír la Palabra",
+                  "contexto": "Romanos 10:17 nos recuerda que nuestra fe crece al escuchar la Palabra de Dios."
+                },
+                {
+                  "texto": "Ejemplo de Abraham: Creyó a pesar de las circunstancias",
+                  "contexto": "Dios le prometió descendencia a Abraham y él creyó, aun cuando todo parecía imposible (Génesis 15:6)."
+                }
+              ]
+            },
+            {
+              "titulo": "La fe nos lleva a la acción",
+              "contexto": "Creer en Dios implica actuar en base a esa fe.",
+              "subpuntos": [
+                {
+                  "texto": "Pedro caminó sobre el agua al confiar en Jesús",
+                  "contexto": "Mateo 14:28-31 nos muestra que mientras Pedro confió, pudo caminar; cuando dudó, se hundió."
+                },
+                {
+                  "texto": "Nuestra fe impacta a otros",
+                  "contexto": "Cuando vivimos por fe, damos testimonio de Dios al mundo. Mateo 5:16 nos llama a ser luz."
+                }
+              ]
+            }
+          ],
+          "conclusion": {
+            "texto": "La fe es confiar en Dios aun cuando no entendemos lo que sucede. No se trata de ver para creer, sino de creer para ver.",
+            "contexto": "Hoy es el día para fortalecer tu fe en Dios. Él sigue en control, aun cuando no puedas ver la salida."
+          }
+        }
+      },
+      {
+        "id": "20",
+        "tema": "El Poder del Perdón",
+        "pasaje": "Efesios 4:32",
+        "contenido": "Perdonar no es justificar la ofensa, sino liberarnos del peso del rencor y reflejar el amor de Dios.",
+        "hashtags": ["perdón", "amor", "restauración"],
+        "bosquejo": {
+          "introduccion": {
+            "texto": "Efesios 4:32 nos llama a ser benignos y misericordiosos, perdonándonos unos a otros, así como Dios nos perdonó en Cristo.",
+            "contexto": "El perdón no es un sentimiento, sino una decisión que nos libera del resentimiento y nos permite vivir en paz con Dios y los demás."
+          },
+          "puntos": [
+            {
+              "titulo": "El perdón refleja el carácter de Dios",
+              "contexto": "Dios nos ha perdonado abundantemente y espera que nosotros hagamos lo mismo con los demás.",
+              "subpuntos": [
+                {
+                  "texto": "Dios nos llama a perdonar",
+                  "contexto": "Colosenses 3:13 nos exhorta a soportarnos y perdonarnos mutuamente."
+                },
+                {
+                  "texto": "Jesús nos dio el mayor ejemplo de perdón",
+                  "contexto": "En la cruz, Jesús dijo: 'Padre, perdónalos, porque no saben lo que hacen' (Lucas 23:34)."
+                }
+              ]
+            },
+            {
+              "titulo": "Perdonar nos libera del resentimiento",
+              "contexto": "El resentimiento nos ata, pero el perdón nos da libertad.",
+              "subpuntos": [
+                {
+                  "texto": "El perdón trae sanidad emocional",
+                  "contexto": "Mateo 6:14-15 nos enseña que si perdonamos, seremos perdonados."
+                },
+                {
+                  "texto": "El perdón nos hace más semejantes a Cristo",
+                  "contexto": "Efesios 5:1 nos llama a imitar a Dios en amor y misericordia."
+                }
+              ]
+            }
+          ],
+          "conclusion": {
+            "texto": "El perdón no cambia el pasado, pero cambia nuestro corazón y nuestro futuro.",
+            "contexto": "Hoy es el día para soltar el rencor y vivir en la libertad del perdón de Dios."
+          }
+        }
+      },
+        
+          {
+            "id": "21",
+            "tema": "Dejad a los Niños Venir a Mí",
+            "pasaje": "Mateo 19:14",
+            "contenido": "Jesús nos enseña el valor de los niños en el Reino de Dios y la importancia de tener un corazón humilde y confiado como el de ellos.",
+            "hashtags": ["niños", "fe", "humildad", "reinoDeDios"],
+            "bosquejo": {
+              "introduccion": {
+                "texto": "En Mateo 19:14, Jesús dice: 'Dejad a los niños venir a mí, y no se lo impidáis; porque de los tales es el reino de los cielos'. Este pasaje nos muestra el profundo amor de Jesús por los niños y su deseo de que ellos también tengan acceso a su gracia y verdad.",
+                "contexto": "En el contexto de la época, los niños no tenían gran valor en la sociedad y los discípulos intentaban alejarlos de Jesús. Sin embargo, Él les muestra que los niños son importantes y que, de hecho, debemos aprender de su actitud para entrar en el Reino de Dios."
+              },
+              "puntos": [
+                {
+                  "titulo": "Jesús valora a los niños",
+                  "contexto": "Mientras los discípulos veían a los niños como una distracción, Jesús los veía como modelos de fe y pureza. Su enseñanza muestra que nadie es insignificante en el Reino de Dios.",
+                  "subpuntos": [
+                    {
+                      "texto": "Dios ama y cuida de los niños",
+                      "contexto": "La Biblia nos dice en Salmo 127:3 que 'He aquí, herencia de Jehová son los hijos; Cosa de estima el fruto del vientre'. Esto nos muestra que los niños no son una carga, sino una bendición dada por Dios."
+                    },
+                    {
+                      "texto": "Jesús los puso como ejemplo de humildad y confianza",
+                      "contexto": "Mateo 18:3 nos enseña que debemos hacernos como niños para entrar en el Reino de los cielos. Esto significa que debemos tener un corazón sencillo, dependiente de Dios y libre de orgullo."
+                    }
+                  ]
+                },
+                {
+                  "titulo": "Un corazón como el de un niño",
+                  "contexto": "Jesús nos invita a tener una fe sencilla y sincera como la de un niño, sin complicaciones ni dudas constantes, sino con una confianza plena en el Padre celestial.",
+                  "subpuntos": [
+                    {
+                      "texto": "Fe genuina y confianza total",
+                      "contexto": "Los niños confían plenamente en sus padres y dependen de ellos sin cuestionarlo. Así debemos confiar en Dios, como nos enseña Proverbios 3:5: 'Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia'."
+                    },
+                    {
+                      "texto": "Corazón puro y sin orgullo",
+                      "contexto": "Los niños no se jactan de lo que tienen ni buscan reconocimiento, sino que dependen de quienes los aman. Jesús nos llama a despojarnos del orgullo y acercarnos a Él con humildad, como dice Santiago 4:6: 'Dios resiste a los soberbios, y da gracia a los humildes'."
+                    }
+                  ]
+                },
+                {
+                  "titulo": "No impedir que otros vengan a Jesús",
+                  "contexto": "Jesús les dijo a sus discípulos que no impidieran que los niños se acercaran a Él. Esto nos desafía a reflexionar sobre si estamos facilitando o estorbando el camino de otros hacia Cristo.",
+                  "subpuntos": [
+                    {
+                      "texto": "Nuestro testimonio influye en otros",
+                      "contexto": "Mateo 5:16 nos exhorta: 'Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos'. Nuestro ejemplo debe guiar a otros hacia Cristo, no alejarlos."
+                    },
+                    {
+                      "texto": "Evitar actitudes que sean tropiezo",
+                      "contexto": "Lucas 17:2 advierte: 'Mejor le fuera que se le atase al cuello una piedra de molino y se le arrojase al mar, que hacer tropezar a uno de estos pequeños'. Debemos ser cuidadosos para no ser obstáculo en la fe de otros."
+                    }
+                  ]
+                }
+              ],
+              "conclusion": {
+                "texto": "Jesús nos llama a recibir el Reino con la humildad y fe de un niño. No debemos impedir que otros, especialmente los pequeños, se acerquen a Él, sino guiarlos con amor y testimonio.",
+                "contexto": "Hoy es el día para examinar nuestra relación con Dios. ¿Tenemos un corazón humilde y confiado como el de un niño? ¿Estamos acercando a otros a Jesús o poniendo obstáculos? Que nuestra vida refleje el amor y la gracia de Dios para que muchos más puedan venir a Él."
+              }
+            }
+          },
+          {
+            "id": "22",
+            "tema": "Buscad Primeramente el Reino de Dios",
+            "pasaje": "Mateo 6:33",
+            "contenido": "Dios nos llama a confiar en Él y priorizar su Reino sobre todas las cosas. Cuando buscamos primero su voluntad, Él provee lo que necesitamos.",
+            "hashtags": [
+              "prioridades",
+              "confianza",
+              "DiosProveerá",
+              "ReinoDeDios"
+            ],
+            "bosquejo": {
+              "introduccion": {
+                "texto": "Mateo 6:33 nos dice: 'Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas'. Jesús nos enseña a priorizar a Dios en nuestra vida antes que cualquier otra cosa, confiando en que Él suplirá nuestras necesidades.",
+                "contexto": "En el Sermón del Monte, Jesús nos habla sobre la ansiedad y las preocupaciones por lo material. Nos llama a confiar en la provisión del Padre y enfocarnos en lo eterno en lugar de lo temporal."
+              },
+              "puntos": [
+                {
+                  "titulo": "Dios quiere ser nuestra prioridad",
+                  "contexto": "Cuando ponemos a Dios en primer lugar, Él ordena nuestra vida y suple nuestras necesidades.",
+                  "subpuntos": [
+                    {
+                      "texto": "No podemos servir a dos señores",
+                      "contexto": "Mateo 6:24 nos advierte que no podemos servir a Dios y a las riquezas al mismo tiempo. Nuestra lealtad debe estar en el Reino de Dios."
+                    },
+                    {
+                      "texto": "Dios conoce nuestras necesidades",
+                      "contexto": "Jesús nos recuerda en Mateo 6:31-32 que nuestro Padre celestial sabe lo que necesitamos antes de que lo pidamos, por lo que no debemos preocuparnos sino confiar en Él."
+                    }
+                  ]
+                },
+                {
+                  "titulo": "Dios es nuestro proveedor",
+                  "contexto": "Cuando confiamos en Dios y buscamos su voluntad, Él se encarga de nuestras necesidades.",
+                  "subpuntos": [
+                    {
+                      "texto": "Ejemplo de Elías: Dios proveyó en tiempos de sequía",
+                      "contexto": "1 Reyes 17:6 nos muestra cómo Dios envió cuervos para alimentar a Elías en el arroyo de Querit, demostrando que Él provee incluso en momentos difíciles."
+                    },
+                    {
+                      "texto": "Dios cuida de sus hijos",
+                      "contexto": "El Salmo 37:25 declara: 'No he visto justo desamparado, ni su descendencia que mendigue pan'. Dios nunca abandona a quienes confían en Él."
+                    }
+                  ]
+                }
+              ],
+              "conclusion": {
+                "texto": "Nuestra vida tiene sentido cuando ponemos a Dios en el centro. Él nos llama a buscar su Reino primero, confiando en que suplirá todo lo necesario.",
+                "contexto": "Hoy es el momento de examinar nuestras prioridades. ¿Estamos buscando primero el Reino de Dios en nuestra vida? Si lo hacemos, Él se encargará del resto."
+              }
+            }
+          },
+          
+            {
+              "id": "23",
+              "tema": "Dios Siempre Guarda un Remanente",
+              "pasaje": "Romanos 11:1-4, 1 Reyes 19:10-14",
+              "contenido": "A lo largo de la historia, Dios siempre ha guardado un remanente fiel que no se ha apartado de Él. Aun en los momentos más oscuros, su pueblo permanece.",
+              "hashtags": [
+                "remanente",
+                "fidelidad",
+                "DiosEsSoberano",
+                "Esperanza"
+              ],
+              "bosquejo": {
+                "introduccion": {
+                  "texto": "En Romanos 11:1-4, Pablo nos recuerda que Dios no ha desechado a su pueblo, sino que siempre ha guardado un remanente fiel. Esta verdad la vemos reflejada en 1 Reyes 19:10-14, cuando Elías, en un momento de desesperación, cree que es el único fiel a Dios, pero el Señor le revela que hay aún siete mil que no han doblado rodilla ante Baal.",
+                  "contexto": "En tiempos de crisis espiritual y apostasía, Dios siempre preserva a un grupo de personas que permanecen fieles a Él. No estamos solos en nuestra lucha por la fe."
+                },
+                "puntos": [
+                  {
+                    "titulo": "Elías y su crisis de fe",
+                    "contexto": "Elías había experimentado una gran victoria en el monte Carmelo (1 Reyes 18), pero ahora huye y se siente solo y desanimado.",
+                    "subpuntos": [
+                      {
+                        "texto": "El desaliento de Elías",
+                        "contexto": "Después de ver la mano poderosa de Dios, Elías es amenazado por Jezabel y huye, sintiéndose abandonado y sin esperanza (1 Reyes 19:10)."
+                      },
+                      {
+                        "texto": "La respuesta de Dios",
+                        "contexto": "Dios no lo reprende duramente, sino que le recuerda que no está solo: hay un remanente de siete mil que han permanecido fieles (1 Reyes 19:18)."
+                      }
+                    ]
+                  },
+                  {
+                    "titulo": "Dios siempre guarda a un remanente",
+                    "contexto": "A lo largo de la historia, Dios siempre ha conservado un grupo de fieles, aun cuando parece que la mayoría se ha apartado.",
+                    "subpuntos": [
+                      {
+                        "texto": "Ejemplo de la iglesia primitiva",
+                        "contexto": "A pesar de la persecución del Imperio Romano, el Evangelio siguió avanzando y Dios guardó a su pueblo (Hechos 8:1-4)."
+                      },
+                      {
+                        "texto": "Ejemplo en la Reforma",
+                        "contexto": "En tiempos de oscuridad espiritual, Dios levantó hombres como Lutero y Calvino para restaurar la verdad de su Palabra."
+                      }
+                    ]
+                  },
+                  {
+                    "titulo": "Dios nos llama a ser parte de su remanente",
+                    "contexto": "Aunque el mundo se aparte de Dios, Él nos llama a permanecer fieles y confiar en su soberanía.",
+                    "subpuntos": [
+                      {
+                        "texto": "No estamos solos",
+                        "contexto": "Dios tiene más hijos fieles en todo el mundo, aunque no los veamos. Debemos buscar comunión con ellos (Hebreos 10:25)."
+                      },
+                      {
+                        "texto": "Nuestra fidelidad a Dios importa",
+                        "contexto": "Aunque seamos minoría, Dios nos ve y recompensa nuestra fidelidad (Apocalipsis 2:10)."
+                      }
+                    ]
+                  }
+                ],
+                "conclusion": {
+                  "texto": "Dios nunca abandona a su pueblo. Aun cuando todo parezca perdido, Él guarda un remanente fiel.",
+                  "contexto": "Hoy nos toca preguntarnos: ¿Estamos siendo parte del remanente fiel de Dios? ¿O estamos cediendo a la presión del mundo? Seamos firmes, sabiendo que Dios es fiel con quienes le buscan."
+                }
+              }
+            },
+            {
+              "id": "24",
+              "tema": "El Poder de la Oración Persistente",
+              "pasaje": "Lucas 18:1-8",
+              "contenido": "Jesús nos enseña la importancia de la oración constante y confiada. Dios escucha a sus hijos y responde en su tiempo perfecto.",
+              "hashtags": ["oración", "fe", "perseverancia", "confianzaEnDios"],
+              "bosquejo": {
+                "introduccion": {
+                  "texto": "En Lucas 18:1-8, Jesús comparte la parábola de la viuda persistente, enseñándonos que debemos orar sin desmayar, confiando en que Dios hará justicia.",
+                  "contexto": "A veces, cuando nuestras oraciones no son respondidas de inmediato, podemos sentirnos tentados a rendirnos. Jesús nos anima a perseverar y confiar en el carácter justo de Dios."
+                },
+                "puntos": [
+                  {
+                    "titulo": "La viuda persistente y el juez injusto",
+                    "contexto": "La parábola nos muestra a una mujer que, a pesar de enfrentarse a un juez indiferente, sigue insistiendo hasta recibir justicia.",
+                    "subpuntos": [
+                      {
+                        "texto": "La viuda no se rindió",
+                        "contexto": "Ella entendía que su única esperanza era seguir pidiendo, sin importar las circunstancias (Lucas 18:3-5)."
+                      },
+                      {
+                        "texto": "Dios no es como el juez injusto",
+                        "contexto": "Si un juez malo responde por insistencia, ¡cuánto más Dios, que es justo, responderá a sus hijos (Lucas 18:7-8)!"
+                      }
+                    ]
+                  },
+                  {
+                    "titulo": "Dios responde en su tiempo",
+                    "contexto": "A veces, pensamos que Dios tarda, pero su respuesta siempre llega en el momento perfecto.",
+                    "subpuntos": [
+                      {
+                        "texto": "Ejemplo de Ana",
+                        "contexto": "Ana oró por años por un hijo y, en su tiempo, Dios le concedió a Samuel (1 Samuel 1:10-20)."
+                      },
+                      {
+                        "texto": "Dios nunca olvida nuestras oraciones",
+                        "contexto": "En Apocalipsis 5:8, las oraciones de los santos son presentadas como incienso delante de Dios. Ninguna oración se pierde."
+                      }
+                    ]
+                  },
+                  {
+                    "titulo": "Orar con fe y sin desmayar",
+                    "contexto": "Nuestra oración debe estar llena de fe, sabiendo que Dios oye y responde.",
+                    "subpuntos": [
+                      {
+                        "texto": "La oración del justo puede mucho",
+                        "contexto": "Santiago 5:16 nos recuerda que 'La oración eficaz del justo puede mucho'. Dios actúa a través de la oración persistente."
+                      },
+                      {
+                        "texto": "Jesús busca fe en sus hijos",
+                        "contexto": "Al final de la parábola, Jesús pregunta: 'Cuando el Hijo del Hombre venga, ¿hallará fe en la tierra?' (Lucas 18:8). La oración demuestra nuestra confianza en Dios."
+                      }
+                    ]
+                  }
+                ],
+                "conclusion": {
+                  "texto": "La oración persistente es clave en nuestra vida cristiana. Dios responde en su tiempo y según su voluntad.",
+                  "contexto": "Hoy debemos preguntarnos: ¿Somos constantes en la oración o nos rendimos fácilmente? Aprendamos de la viuda persistente y confiemos en que Dios siempre escucha y actúa."
+                }
+              }
+            },
+            
+    {
+        "id": "25",
+        "tema": "La Fidelidad de Dios en Medio del Remanente",
+        "pasaje": "Romanos 11:1-4, 1 Reyes 19:10-14",
+        "contenido": "Dios siempre tiene un remanente fiel, aun cuando parece que todo está perdido. La historia de Elías nos muestra que, aunque él pensaba que estaba solo, Dios tenía siete mil que no habían doblado rodilla ante Baal.",
+        "hashtags": [
+            "fidelidadDeDios",
+            "remanente",
+            "confianzaEnDios"
+        ],
+        "bosquejo": {
+            "introduccion": {
+                "texto": "A lo largo de la historia bíblica, vemos que Dios siempre preserva un remanente fiel. Aun cuando Elías pensaba que estaba solo, Dios le mostró que había más personas que no habían cedido a la idolatría.",
+                "contexto": "En Romanos 11, Pablo usa esta historia para explicar que Dios no ha desechado a Su pueblo. Él siempre ha guardado un grupo de creyentes fieles a Su llamado."
+            },
+            "puntos": [
+                {
+                    "titulo": "Elías y su desesperación",
+                    "contexto": "Elías se sentía solo y desanimado después de enfrentarse a los profetas de Baal y ver la persecución de Jezabel.",
+                    "subpuntos": [
+                        {
+                            "texto": "Elías huye y se refugia en la cueva",
+                            "contexto": "1 Reyes 19:10 - Elías sentía que su labor era en vano y que todos habían abandonado a Dios."
+                        },
+                        {
+                            "texto": "Dios le revela la verdad",
+                            "contexto": "1 Reyes 19:18 - Dios le dice que aún hay siete mil que no han doblado rodilla ante Baal."
+                        }
+                    ]
+                },
+                {
+                    "titulo": "El remanente en los tiempos de Pablo",
+                    "contexto": "Pablo explica que Dios ha preservado un grupo de fieles entre el pueblo de Israel.",
+                    "subpuntos": [
+                        {
+                            "texto": "Dios no ha desechado a Su pueblo",
+                            "contexto": "Romanos 11:1-2 - Pablo mismo es prueba de que Dios sigue llamando a los suyos."
+                        },
+                        {
+                            "texto": "El remanente según la elección de la gracia",
+                            "contexto": "Romanos 11:5-6 - No por obras, sino por la gracia de Dios."
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Lecciones para nosotros hoy",
+                    "contexto": "En tiempos difíciles, Dios sigue teniendo un remanente fiel. Nunca estamos solos en nuestra fe.",
+                    "subpuntos": [
+                        {
+                            "texto": "No debemos desanimarnos",
+                            "contexto": "Dios siempre está obrando, aunque no lo veamos."
+                        },
+                        {
+                            "texto": "Somos parte del remanente",
+                            "contexto": "Dios nos ha llamado a permanecer fieles en medio de un mundo en crisis."
+                        }
+                    ]
+                }
+            ],
+            "conclusion": {
+                "texto": "Dios es fiel y siempre tiene un pueblo que le sigue. Aunque parezca que la fe se ha apagado, Él sigue preservando un remanente.",
+                "contexto": "Debemos confiar en que no estamos solos y que Dios sigue obrando."
+            }
+        }
+    },
+    {
+        "id": "26",
+        "tema": "El Fruto del Espíritu Santo",
+        "pasaje": "Gálatas 5:22-23",
+        "contenido": "El fruto del Espíritu no es algo que podemos producir por nuestra cuenta, sino el resultado de una vida rendida a Dios.",
+        "hashtags": [
+            "frutoDelEspiritu",
+            "vidaCristiana",
+            "santificacion"
+        ],
+        "bosquejo": {
+            "introduccion": {
+                "texto": "En Gálatas 5:22-23, Pablo nos enseña sobre el fruto del Espíritu. No es algo que podemos lograr con nuestras propias fuerzas, sino la evidencia de una vida guiada por el Espíritu Santo.",
+                "contexto": "Este pasaje nos muestra cómo el carácter cristiano debe reflejar la presencia de Dios en nosotros."
+            },
+            "puntos": [
+                {
+                    "titulo": "El contraste entre la carne y el Espíritu",
+                    "contexto": "Pablo contrasta las obras de la carne con el fruto del Espíritu.",
+                    "subpuntos": [
+                        {
+                            "texto": "Las obras de la carne",
+                            "contexto": "Gálatas 5:19-21 - Incluyen pecado, división y egoísmo."
+                        },
+                        {
+                            "texto": "El fruto del Espíritu",
+                            "contexto": "Gálatas 5:22-23 - Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y dominio propio."
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cada aspecto del fruto del Espíritu",
+                    "contexto": "Cada característica refleja el carácter de Cristo.",
+                    "subpuntos": [
+                        {
+                            "texto": "Amor y gozo",
+                            "contexto": "El amor es la base de todo, y el gozo es una alegría que no depende de las circunstancias."
+                        },
+                        {
+                            "texto": "Paz y paciencia",
+                            "contexto": "Dios nos da una paz que sobrepasa todo entendimiento y nos enseña a esperar en Él."
+                        },
+                        {
+                            "texto": "Benignidad y bondad",
+                            "contexto": "Somos llamados a ser luz en el mundo a través de nuestras acciones."
+                        },
+                        {
+                            "texto": "Fe, mansedumbre y dominio propio",
+                            "contexto": "Nos ayudan a mantenernos firmes en la fe y reflejar a Cristo en nuestra vida diaria."
+                        }
+                    ]
+                },
+                {
+                    "titulo": "Cómo cultivar el fruto del Espíritu",
+                    "contexto": "Debemos permanecer en comunión con Dios para que este fruto se desarrolle en nuestra vida.",
+                    "subpuntos": [
+                        {
+                            "texto": "Permanecer en Cristo",
+                            "contexto": "Juan 15:5 - 'Separados de mí, nada podéis hacer'."
+                        },
+                        {
+                            "texto": "Oración y comunión con Dios",
+                            "contexto": "A través de la oración, el Espíritu obra en nuestro carácter."
+                        },
+                        {
+                            "texto": "Obediencia a la Palabra",
+                            "contexto": "El fruto se desarrolla cuando vivimos según la voluntad de Dios."
+                        }
+                    ]
+                }
+            ],
+            "conclusion": {
+                "texto": "El fruto del Espíritu es la evidencia de una vida transformada por Dios. No podemos producirlo en nuestras propias fuerzas, sino que es el resultado de una relación cercana con Cristo.",
+                "contexto": "Debemos buscar vivir en el Espíritu para reflejar a Jesús en nuestro carácter y acciones diarias."
+            }
+        }
+    },
+    
+      {
+        "id": "27",
+        "tema": "Viviendo una Vida en Santidad",
+        "pasaje": "1 Pedro 1:15-16",
+        "contenido": "Dios nos ha llamado a vivir en santidad, reflejando Su carácter en cada área de nuestra vida. La santidad no es un estándar inalcanzable, sino un llamado a vivir apartados para Dios.",
+        "hashtags": ["santidad", "vidaCristiana", "obediencia", "pureza"],
+        "bosquejo": {
+          "introduccion": {
+            "texto": "La santidad no es una opción para el cristiano, sino un mandato. En 1 Pedro 1:15-16, se nos dice: 'sino, como aquel que os llamó es santo, sed también vosotros santos en toda vuestra manera de vivir; porque escrito está: Sed santos, porque yo soy santo'.",
+            "contexto": "Dios nos llama a vivir de manera diferente al mundo, apartados del pecado y consagrados a Él. La santidad no significa perfección absoluta, sino un corazón dispuesto a obedecer y agradar a Dios en todas las áreas de nuestra vida."
+          },
+          "puntos": [
+            {
+              "titulo": "El llamado de Dios a la santidad",
+              "contexto": "Desde el Antiguo Testamento, Dios ha llamado a Su pueblo a ser santos porque Él es santo.",
+              "subpuntos": [
+                {
+                  "texto": "La santidad es separación del pecado",
+                  "contexto": "2 Corintios 6:17 nos dice: 'Salid de en medio de ellos, y apartaos, dice el Señor, y no toquéis lo inmundo'. La santidad implica vivir diferente al mundo, evitando todo lo que contamina nuestra relación con Dios."
+                },
+                {
+                  "texto": "La santidad es un reflejo del carácter de Dios",
+                  "contexto": "Efesios 5:1 nos llama a ser 'imitadores de Dios como hijos amados'. La santidad no es solo evitar el pecado, sino reflejar el amor, la misericordia y la justicia de Dios en nuestra vida."
+                }
+              ]
+            },
+            {
+              "titulo": "Cómo vivir en santidad en un mundo impuro",
+              "contexto": "El mundo constantemente nos presiona para alejarnos de los estándares de Dios, pero Él nos ha dado herramientas para mantenernos firmes.",
+              "subpuntos": [
+                {
+                  "texto": "Renovando nuestra mente con la Palabra",
+                  "contexto": "Romanos 12:2 nos dice que no debemos conformarnos a este mundo, sino ser transformados mediante la renovación de nuestra mente. Esto significa llenar nuestra mente con la Palabra de Dios y rechazar las influencias negativas."
+                },
+                {
+                  "texto": "Dependiendo del Espíritu Santo",
+                  "contexto": "No podemos vivir en santidad por nuestras propias fuerzas. Gálatas 5:16 nos dice: 'Andad en el Espíritu, y no satisfagáis los deseos de la carne'. Solo con la ayuda del Espíritu Santo podemos vencer la tentación y caminar en santidad."
+                },
+                {
+                  "texto": "Tomando decisiones que honren a Dios",
+                  "contexto": "1 Corintios 10:31 nos exhorta: 'Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios'. Nuestra santidad se refleja en nuestras decisiones diarias."
+                }
+              ]
+            },
+            {
+              "titulo": "Las bendiciones de vivir en santidad",
+              "contexto": "Dios recompensa a quienes buscan la santidad con una vida llena de propósito y paz.",
+              "subpuntos": [
+                {
+                  "texto": "Mayor intimidad con Dios",
+                  "contexto": "Mateo 5:8 dice: 'Bienaventurados los de limpio corazón, porque ellos verán a Dios'. La santidad nos permite acercarnos más a Dios y experimentar Su presencia de manera profunda."
+                },
+                {
+                  "texto": "Protección espiritual",
+                  "contexto": "Proverbios 10:9 nos enseña que 'el que camina en integridad anda confiado'. La santidad nos guarda de caer en trampas del enemigo."
+                },
+                {
+                  "texto": "Un testimonio poderoso",
+                  "contexto": "Cuando vivimos en santidad, impactamos a quienes nos rodean y reflejamos la luz de Cristo (Mateo 5:16)."
+                }
+              ]
+            }
+          ],
+          "conclusion": {
+            "texto": "Dios nos llama a vivir en santidad, no como una carga, sino como un privilegio. Es un estilo de vida que nos lleva a una relación más profunda con Él.",
+            "contexto": "Hoy debemos preguntarnos: ¿Estamos buscando la santidad en nuestra vida diaria? ¿Estamos tomando decisiones que nos acercan a Dios o nos alejan de Él? La santidad es un proceso, pero con la ayuda de Dios, podemos caminar en ella cada día."
+          }
+        }
+      },
+      {
+        "id": "28",
+        "tema": "Resistiendo la Tentación",
+        "pasaje": "Santiago 1:12-15",
+        "contenido": "Todos enfrentamos tentaciones, pero Dios nos da la fuerza para resistirlas y salir victoriosos. La tentación no es pecado en sí misma, pero ceder a ella nos aleja de Dios.",
+        "hashtags": [
+          "tentación",
+          "vidaCristiana",
+          "fuerzaEnCristo",
+          "victoria"
+        ],
+        "bosquejo": {
+          "introduccion": {
+            "texto": "La tentación es una realidad para todos los cristianos. Santiago 1:12-15 nos enseña que bienaventurado es el que resiste la tentación, porque recibirá la corona de vida.",
+            "contexto": "Jesús mismo fue tentado (Mateo 4:1-11), pero no pecó. Esto nos muestra que la tentación en sí no es pecado, sino ceder a ella. Dios nos da las herramientas para vencerla."
+          },
+          "puntos": [
+            {
+              "titulo": "¿De dónde viene la tentación?",
+              "contexto": "La tentación no viene de Dios, sino de nuestros propios deseos y del enemigo.",
+              "subpuntos": [
+                {
+                  "texto": "La tentación surge de nuestra naturaleza caída",
+                  "contexto": "Santiago 1:14 dice que 'cada uno es tentado, cuando de su propia concupiscencia es atraído y seducido'. Debemos reconocer nuestras debilidades y depender de Dios."
+                },
+                {
+                  "texto": "Satanás busca hacernos caer",
+                  "contexto": "1 Pedro 5:8 nos advierte que el diablo anda como león rugiente buscando a quién devorar. Debemos estar vigilantes y fortalecidos en la fe."
+                }
+              ]
+            },
+            {
+              "titulo": "Cómo resistir la tentación",
+              "contexto": "Dios nos ha dado estrategias para vencer la tentación y no caer en el pecado.",
+              "subpuntos": [
+                {
+                  "texto": "Buscar la salida que Dios provee",
+                  "contexto": "1 Corintios 10:13 nos asegura que Dios no permitirá que seamos tentados más de lo que podemos soportar y nos dará una salida."
+                },
+                {
+                  "texto": "Llenarnos de la Palabra de Dios",
+                  "contexto": "Cuando Jesús fue tentado en el desierto, respondió con la Escritura. Salmo 119:11 dice: 'En mi corazón he guardado tus dichos, para no pecar contra ti'."
+                },
+                {
+                  "texto": "Orar y depender de Dios",
+                  "contexto": "Mateo 26:41 nos exhorta a velar y orar para no entrar en tentación."
+                }
+              ]
+            }
+          ],
+          "conclusion": {
+            "texto": "Dios nos da la fuerza para resistir la tentación. No estamos solos en la batalla.",
+            "contexto": "Hoy debemos decidir: ¿Nos rendiremos ante la tentación o resistiremos con el poder de Dios? Con Su ayuda, podemos vivir en victoria sobre el pecado."
+          }
+        }
+      }
+    
+ 
 ]

@@ -154,26 +154,6 @@ app.get("/api/:version/:book/:chapter/:verse", (req, res) => {
 
 // Aqui inicia la parte de las datas de los sermiones y otros datos ...
 
-
-// Ruta para devolver todos los datos de sermones
-app.get("/api/sermones", (req, res) => {
-  const query = "SELECT * FROM bosquejos";
-  db.all(query, (err, rows) => {
-    if (err) {
-      console.error("Error al obtener los sermones:", err);
-      res.status(500).json({ error: "Error al obtener los sermones" });
-      return;
-    }
-    // Convertir JSON almacenado como texto a objetos
-    const sermons = rows.map(row => ({
-      ...row,
-      hashtags: JSON.parse(row.hashtags),
-      bosquejo: JSON.parse(row.bosquejo)
-    }));
-    res.json(sermons);
-  });
-});
-
 // Ruta para devolver un sermón específico por ID
 app.get("/api/sermones/:id", (req, res) => {
   const id = req.params.id;
@@ -194,6 +174,106 @@ app.get("/api/sermones/:id", (req, res) => {
     }
   });
 });
+
+// // Ruta para devolver todos los datos de sermones
+// app.get("/api/sermones", (req, res) => {
+//   const query = "SELECT * FROM bosquejos";
+//   db.all(query, (err, rows) => {
+//     if (err) {
+//       console.error("Error al obtener los sermones:", err);
+//       res.status(500).json({ error: "Error al obtener los sermones" });
+//       return;
+//     }
+//     // Convertir JSON almacenado como texto a objetos
+//     const sermons = rows.map(row => ({
+//       ...row,
+//       hashtags: JSON.parse(row.hashtags),
+//       bosquejo: JSON.parse(row.bosquejo)
+//     }));
+//     res.json(sermons);
+//   });
+// });
+app.get("/api/sermones", (req, res) => {
+  // 1. Verificar los nombres de las columnas
+  const query = "PRAGMA table_info(bosquejos)";
+  db.all(query, (pragmaErr, columns) => {
+    if (pragmaErr) {
+      console.error("Error al obtener información de la tabla:", pragmaErr);
+      res.status(500).json({
+        error: "Error al obtener información de la tabla",
+        message: pragmaErr.message,
+      });
+      return;
+    }
+
+    // 2. Buscar las columnas 'hashtags' y 'bosquejo'
+    const hashtagsColumnExists = columns.some(
+      (column) => column.name === "hashtags"
+    );
+    const bosquejoColumnExists = columns.some(
+      (column) => column.name === "bosquejo"
+    );
+
+    if (!hashtagsColumnExists || !bosquejoColumnExists) {
+      let errorMessage =
+        "La tabla 'bosquejos' no tiene las siguientes columnas:";
+      if (!hashtagsColumnExists) errorMessage += " hashtags";
+      if (!bosquejoColumnExists) errorMessage += " bosquejo";
+
+      console.error(errorMessage);
+      res.status(500).json({
+        error: "Error en la estructura de la base de datos",
+        message: errorMessage,
+      });
+      return;
+    }
+
+    // 3. Consulta principal (ahora con seguridad de que las columnas existen)
+    const sermonQuery = "SELECT * FROM bosquejos";
+    db.all(sermonQuery, (err, rows) => {
+      if (err) {
+        console.error("Error al obtener los sermones:", err);
+        res
+          .status(500)
+          .json({
+            error: "Error al obtener los sermones",
+            message: err.message,
+          });
+        return;
+      }
+
+      // 4. Manejar el caso de que no haya resultados
+      if (!rows || rows.length === 0) {
+        res.json([]); // Devuelve un array vacío si no hay sermones
+        return;
+      }
+
+      // 5. Convertir JSON almacenado como texto a objetos, con manejo de errores
+      const sermons = rows.map((row) => {
+        let hashtags = [];
+        let bosquejo = [];
+        try {
+          hashtags = row.hashtags ? JSON.parse(row.hashtags) : []; //Evitar el error de parsear un null
+          bosquejo = row.bosquejo ? JSON.parse(row.bosquejo) : [];
+        } catch (parseErr) {
+          console.error("Error al parsear JSON:", parseErr);
+          // Decide cómo manejar el error: puedes omitir el sermón, registrar el error y continuar, o usar valores por defecto.
+          // Aquí, se registran el error y se usan valores por defecto para evitar que la aplicación se bloquee.
+        }
+
+        return {
+          ...row,
+          hashtags: hashtags,
+          bosquejo: bosquejo,
+        };
+      });
+      res.json(sermons);
+    });
+  });
+});
+
+
+
 
 // Ruta para devolver todos los versos (si tienes una tabla para versos)
 app.get("/api/verses", (req, res) => {
